@@ -24,20 +24,19 @@ o	The second line of the display shows less or more of vertical lines. When the 
        By default, without touching anything, the display is something like:
 
                 88.00 MHz
-           - - - - -   MONO
+	    - - - - -   MONO
        Or
-	  88.10 MHz
-          TUNED  STEREO
-		
+       	  88.10 MHz
+	  TUNED  STEREO
+	  		
 While in the Volume menu the user can push the UP and DOWN buttons for adjusting the volume.
 The display will become something like:
 	  88.10 MHz
-          IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-
+	  IIIIIIIIIIIIIIIIIII	  
 -	Memorized stations;
 When entering into this menu the display shows on 2 lines:
-Push UP or Down
-to access memory
+         Push UP or Down
+	 to access memory
 The frequency that it is received in this moment, while seeing the above 2 lines, is the last frequency setup previously, either by manual scan or by accessing a memorized station.
 If there are stations already memorized and the UP or DOWN buttons are pushed the display will become:
       M1 88.10 MHz
