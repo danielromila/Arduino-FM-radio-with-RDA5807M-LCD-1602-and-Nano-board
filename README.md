@@ -25,9 +25,9 @@ o	The second line of the display shows less or more of vertical lines. When the 
 
                 88.00 MHz
 	    - - - - -   MONO
-       Or
-       	  88.10 MHz
-	  TUNED  STEREO
+or
+       	        88.10 MHz
+	     TUNED  STEREO
 	  		
 While in the Volume menu the user can push the UP and DOWN buttons for adjusting the volume.
 The display will become something like:
