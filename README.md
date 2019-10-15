@@ -11,4 +11,3 @@ I added the bass boost as the 5th menu.
 I completely remade the manual search. Now it does not go anymore outside the 88 MHz – 108 MHz band. The manual search has a step of 100 KHz for short pushes of the buttons and 1 MHz for long or continuous pushes of the buttons. This is very useful, and I really needed to implement it, because going from 88 MHz manually to 108 MHz would have required a long time otherwise.
 I changed various displays, to give indications to the user what the radio expects to be pushed and why.
 While all modifications I did took me many hours and seam major modifications, everything was done based on Alexander’s work. It was much easier to modify a program that already worked than to start from zero.  
-Please see the user's manual file user.docx to understand how to navigate through the menus and what it is possible to do with this radio.
