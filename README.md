@@ -1,8 +1,7 @@
 # Arduino-FM-radio-with-RDA5807M-LCD-1602-and-Nano-board
 
-I modified the schematics and code made by Alexander Liman. You can see his work at:
-
-https://www.youtube.com/watch?v=gMmRLU60gho
+You can see it in function at: https://www.youtube.com/watch?v=ydHF1U-pbds&feature=youtu.be
+I heavily modified the schematics and code made by Alexander Liman. You can see his work at: https://www.youtube.com/watch?v=gMmRLU60gho
 
 I modified the schematics by using the standard pins to connect the LCD1602 with the Arduino Nano board. This means that all examples from Arduino IDE, like the “Hello World” sketch will work in my schematics (but not in his), because I use the pins as those examples use them. From the functional point of view, if you want to dedicate the Arduino board and the LCD only for this radio and not to reuse the assemble Alexander’s schematics is fine. My schematics also allows verifying step by step: attach the Arduino board to the LCD and see if displays OK, and after go into the buttons and the radio part.
 
