@@ -17,6 +17,8 @@ I changed various displays, to give indications to the user what the radio expec
 
 I kept the RDS function as implemented by Alexander.
 
+There are 2 versions of the code. Both of them work. The second version has an additional menu for forcing the received signal to be MONO, even if the station broadcasts in STEREO. Another change is the initial screen (which is the same with the screen where the radio comes back every time when nothing is pushed for some 15 seconds) In the second version this initial screen also displays T or - after the frequency (the radio reports if it is tuned or not), a number which represents the relative strenght of the signal and the letter S for STEREO ar M for MONO. 
+
 While all modifications I did took me many hours and seam major modifications, everything was done based on Alexander’s work. It was much easier to modify a program that already worked than to start from zero.  
 
 Please see the file user.docx for a user's manual. It explains which are the menus and how to use them and how to use the radio.
