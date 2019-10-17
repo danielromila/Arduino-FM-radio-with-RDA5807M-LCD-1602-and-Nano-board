@@ -95,7 +95,7 @@ void loop () {
       }
    }   
  
-    if(millis()-time>10000 and menu==1){menu=0;time=millis();lcd.clear();}
+    if(millis()-time>5000 and menu==1){menu=0;time=millis();lcd.clear();}
     
     
     
@@ -118,7 +118,7 @@ void loop () {
 
   k=0;start1=0;menu=1;}}   
  
- if(millis()-time>10000 and menu==2){menu=0;time=millis();lcd.clear();}
+ if(millis()-time>5000 and menu==2){menu=0;time=millis();lcd.clear();}
  
   if(menu==3)// manual adjustment of frequencies
   {
@@ -168,7 +168,7 @@ void loop () {
     
   }
  
- if(millis()-time>10000 and menu==3){menu=0;time=millis();lcd.clear();}
+ if(millis()-time>5000 and menu==3){menu=0;time=millis();lcd.clear();}
 
 
 
@@ -194,7 +194,7 @@ void loop () {
            }
    } 
    
-if(millis()-time>10000 and menu==4){menu=0;time=millis();lcd.clear();}
+if(millis()-time>5000 and menu==4){menu=0;time=millis();lcd.clear();}
 
     if(menu==5)// force mono
    {       
@@ -218,6 +218,6 @@ if(millis()-time>10000 and menu==4){menu=0;time=millis();lcd.clear();}
            }
    } 
    
-if(millis()-time>10000 and menu==5){lcd.clear(); menu=0; time=millis();}
+if(millis()-time>5000 and menu==5){lcd.clear(); menu=0; time=millis();}
  
 } // LOOP
